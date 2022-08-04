@@ -8,6 +8,7 @@ def sub_strings(word, dictionary)
       hash[x] = value
     end
   end
+  puts output
 end
 
 dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
